@@ -49,5 +49,5 @@ README.md                          # Project documentation
    ```
 3. Run **Google Play Store Analysis.ipynb** step by step.
 
-## 👤 Author
+
 **Sujay Roy**
